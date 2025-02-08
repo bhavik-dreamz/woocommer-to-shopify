@@ -1,0 +1,13 @@
+{
+    "woocommerce": {
+      "url": "https://your-woocommerce-site.com",
+      "consumer_key": "your_wc_consumer_key",
+      "consumer_secret": "your_wc_consumer_secret"
+    },
+    "shopify": {
+      "store_url": "yourstore.myshopify.com",
+      "api_key": "your_shopify_api_key",
+      "api_password": "your_shopify_api_password"
+    }
+  }
+  
