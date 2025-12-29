@@ -26,7 +26,7 @@ It includes:
 -----------------  
 
 1️⃣ Clone the Repository  
-git clone https://github.com/your-username/woocommerce-to-shopify-migration.git  
+git clone https://github.com/bhavik-dreamz/woocommer-to-shopify.git  
 cd woocommerce-to-shopify-migration  
 
 2️⃣ Install Dependencies  
